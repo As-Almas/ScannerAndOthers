@@ -1,0 +1,10 @@
+LIBRARY Scanner
+
+EXPORTS
+	IsCanAnyScanNow				@1
+	Load_BRC					@2
+	OpenCamera					@3
+	ScanCameraImage				@4	
+	CloseCamera					@5
+	GetLastResult				@6
+	FreeResult					@7
